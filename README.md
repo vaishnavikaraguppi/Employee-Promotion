@@ -18,8 +18,8 @@ The dataset contains employee information including:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/employee-promotion-prediction.git
-cd employee-promotion-prediction
+git clone https://github.com/your-username/Employee-Promotion.git
+cd Employee-Promotion 
 ```
 
 2. Install dependencies:
