@@ -1,0 +1,19 @@
+# Core Data Science Libraries
+pandas==1.5.3
+numpy==1.25.2
+
+# Machine Learning
+scikit-learn==1.2.2
+xgboost==2.0.3
+imbalanced-learn==0.10.1
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.13.1
+
+# Jupyter Notebook Support (optional)
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Additional utilities
+threadpoolctl>=3.0.0
